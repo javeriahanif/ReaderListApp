@@ -1,1 +1,1 @@
-# ReaderListApp - Application for book lovers! 
+# ReaderList - Application for book lovers! 
